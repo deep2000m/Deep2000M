@@ -6,9 +6,6 @@ A data analyst with a strong grasp of Excel, SQL, and Power BI. I genuinely enjo
 
 At this stage of my career, I’m focused on applying what I’ve learned through hands-on projects to real-world business problems. I may not have industry experience just yet, but I’ve spent considerable time mastering key analytics tools and frameworks, and I’m confident in my ability to contribute meaningfully from day one.
 
-I believe in continuous learning, adaptability, and clear communication — not just building dashboards, but telling stories with data that help teams make better decisions. I also enjoy sharing what I learn along the way, whether through platforms, posts, or conversations.
-
-
 ---
 
 ## ⚒️ Tools & Technologies
