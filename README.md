@@ -57,7 +57,8 @@ I believe in continuous learning, adaptability, and clear communication — not 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deepakdas-analyst)
 - 📧 Email: deepakdas909@gmail.com
-
+- GitHub: https://github.com/deep2000m
+  
 ---
 
 _Thanks for visiting! This README evolves as I grow — follow my journey._
