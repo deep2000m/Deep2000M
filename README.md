@@ -52,9 +52,9 @@ At this stage of my career, I’m focused on applying what I’ve learned throug
 
 ## 📬 Feel free to connect — I’m always open to learning, collaboration, and solving interesting problems through data.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deepakdas-analyst)
-- 📧 Email: deepakdas909@gmail.com
+- 🔗 LinkedIn - https://www.linkedin.com/in/deepakdas-analyst
 - GitHub: https://github.com/deep2000m
+- 📧 Email: deepakdas909@gmail.com
   
 ---
 
